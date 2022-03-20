@@ -24,7 +24,17 @@ Languages/Dependencies Used:
   <li>Node.js</li>
   </ol>
   
- <h3>Sample Code</h3>
+  
+  <h2> What I'm working on</h2>
+  <ol>
+  <li>Updating the cards and creating a better UI design on the Products component</li>
+  <li>Creating a functioning contact form</li>
+  <li>Updating the UI during checkout</li>
+  <li>Updating code with better functionality as I learn</li>
+  <li>Cleaning up my code of any unnecessary pieces</li>
+  
+  
+ <h2>Sample Code</h2>
  <h4>Basic Menu for Product Navigation</h4>
  
 ![githubImg](https://user-images.githubusercontent.com/87050550/159172541-4e17a886-03fb-4b89-b862-b6c45e6f64cb.PNG)
